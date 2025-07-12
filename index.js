@@ -3,8 +3,12 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 const PORT = 3000;
+const cors = require('cors')
 
 app.use(express.json()); // สำหรับอ่าน JSON body
+
+// ✅ เปิดใช้งาน CORS สำหรับทุก origin
+app.use(cors())
 
 const DATA_PATH = path.join(__dirname, 'data/emails.json');
 
