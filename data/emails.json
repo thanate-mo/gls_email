@@ -1,0 +1,27 @@
+[
+  {
+    "bucode": "001",
+    "to": "a@gmail.com",
+    "cc": "b@gmail.com"
+  },
+  {
+    "bucode": "002",
+    "to": "a2@gmail.com",
+    "cc": "b2@gmail.com"
+  },
+  {
+    "bucode": "003",
+    "to": "a3@gmail.com",
+    "cc": "b3@gmail.com"
+  },
+  {
+    "bucode": "004",
+    "to": "a3@gmail.com",
+    "cc": "b3@gmail.com"
+  },
+  {
+    "bucode": "005",
+    "to": "a3@gmail.com",
+    "cc": "b3@gmail.com"
+  }
+]
